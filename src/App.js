@@ -1,4 +1,4 @@
-import './App.css';
+import './app.css';
 import Button1 from './components/Button1';
 import Button2 from './components/Button2';
 
